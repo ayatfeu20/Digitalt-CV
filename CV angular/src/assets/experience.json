@@ -1,0 +1,82 @@
+{
+    "experience" : [
+
+        {
+
+
+
+
+
+            "company": "ECutbildning",
+            "position": "student",
+            "from": "24/08/2020",
+            "to": null,
+            "projects": 
+                {
+                    
+                    "responsabilities": "student i kurs frontend- utvecklare"
+                
+                }
+            
+        
+            },
+        {
+
+
+
+
+
+            "company": "Irsta skola",
+            "position": "Resurs (extra tjänst) - Västerås",
+            "from": "01/12/2017",
+            "to": "13/09/2018",
+            "projects": 
+                {
+                    
+                    "responsabilities": "Arbetsuppgifer har varit extraresurs i klass på mellanstaiet åk 4-6 under 1 månad och elevassient för enskild elev på lågstadiet åk 1-3. Jag har även arbetat på skolans fritidshem med elever/barn i ålder från förskoleklass till åk 3."
+                
+                }
+            },       
+            
+        {
+            "company": "DESAB",
+            "position": "Administrativ assistant (50% deltid) - Mariestad",
+            "from": "01/03/2015",
+            "to": "30/04/2017",
+            "projects": 
+                {
+                    "responsabilities": "Mina arbetsuppgifter har huvudsakligen omfattat administarion, kontering och bokföring samt utländsk korrespondens. Jag har deltagit i bokslutsarbeten och svarat för arkivering men också utfört andra arbetuppgifter som sammansättning av PowerPoint presentationer, företagsvideo mm."
+                }
+          
+            },     
+        
+        {
+            "company": "Studiefrämjandet",
+            "position": "Data lärare -Skaraborg",
+            "from": "01/11/2016",
+            "to": "28/02/2017",
+            "projects": 
+                {
+                    "responsabilities": "Lära datakunskåp till asylsökande på Lugnås asylboende."
+                }
+            
+        },
+
+        {
+            "company": "Alouf establishment ",
+            "position": "Handel marknadschef Damaskus/Syria (www.aloufest.com)",
+            "from": "01/04/2007",
+            "to": "30/09/2013",
+            "projects": 
+                {
+                    "responsabilities": "Mina arbetsuppgifter bestod i att hålla kontakt med både försäljare och köpare, ta emot viktiga mejl och svara på de samt att hålla bra kundrelation mm.En av arbetsuppgifter var att vara ansvarig importör/exportör."
+                }
+            
+        }
+    
+
+    ]
+}
+        
+
+            

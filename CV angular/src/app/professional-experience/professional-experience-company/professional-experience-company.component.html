@@ -1,0 +1,20 @@
+<mat-card>
+    <mat-card-title>{{ professionalExperience.company }}</mat-card-title>
+    <mat-card-subtitle>{{ professionalExperience.position }}</mat-card-subtitle>
+    <mat-card-content>
+        <div class="row">
+            <div class="col-md-4"><b>Från:</b> {{ professionalExperience.from | date: 'MMM, y' }}</div>
+            <div class="col-md-4"><b>Till:</b> {{ professionalExperience.to | date: 'MMM, y' | professionalExperienceCurrentJob }}</div>
+            
+        </div>
+        <hr>
+        <div class="row col-md-12">
+            <mat-card-subtitle>Arbetsuppgifter:</mat-card-subtitle>
+            <hr>
+        </div>
+        <div *ngFor="let project of getProjects();">
+            <div class="row col-md-12">{{ project.responsabilities }}</div>
+            <hr>
+        </div>
+        </mat-card-content>
+</mat-card>
